@@ -42,7 +42,7 @@ This script is designed to merge and keep up-to-date m3u links collected from pu
 Primarily focused on Bangladeshi users (Use Vlc for PC)
 
 ```bash
-[https://github.com/kawsar1194/Autoupdate/tree/main]
+[https://raw.githubusercontent.com/kawsar1194/Autoupdate/main/combined_playlist.m3u]
 ```
 Use this link for Toffee Tsports and M3U all-in-one link 👇 ( [Use Ott Navigator for android](https://t.me/piratestvdb/2) )
 
