@@ -13,7 +13,7 @@ This script is designed to merge and keep up-to-date m3u links collected from pu
     <img src="https://img.shields.io/badge/Made%20in-Bangladesh_🇧🇩-green?colorA=%23ff0000&colorB=%23017e40&style=flat-square"
          alt="Made in Bangladesh">
   </a>
-  <a href="https://github.com/FunctionError/PiratesTv/actions/workflows/main.yml">
+  <a href="https://github.com/kawsar1194/Autoupdate/blob/main/.github/workflows/main.yml">
     <img src="https://github.com/FunctionError/PiratesTv/actions/workflows/main.yml/badge.svg"
          alt="Build Status">
   </a>
@@ -24,7 +24,7 @@ This script is designed to merge and keep up-to-date m3u links collected from pu
 
 ## Authors
 
-- [@FunctionError](https://www.github.com/FunctionError)
+- [@Autoupdate][https://github.com/kawsar1194/Autoupdate]
 
 ### 📺 Join us 👇
 
@@ -44,7 +44,9 @@ Primarily focused on Bangladeshi users (Use Vlc for PC)
 ```bash
 [https://raw.githubusercontent.com/kawsar1194/Autoupdate/main/combined_playlist.m3u]
 ```
-
+```bash
+[https://raw.githubusercontent.com/kawsar1194/Autoupdate/main/combined_playlist.m3u]
+```
 # Contributing
 
 Contributions are always welcome! Feel Free To Clone This Project. For Major Changes, Please Open An Issue First To Discuss What You Would Like To Change Or Add, Thank You ! 🖤
@@ -68,7 +70,7 @@ This repository collects m3u files collected from multiple public sources. There
 </summary>
 
 
-- [@FunctionError](https://www.github.com/FunctionError)
+- [@FunctionError](https://github.com/kawsar1194/Autoupdate)
 
 - [@subir](https://github.com/subirkumarpaul/)
 
@@ -79,4 +81,4 @@ This repository collects m3u files collected from multiple public sources. There
    </details>
 
 # **License**
-[![License: AGPL v3](https://img.shields.io/badge/License-AGPL_v3-blue.svg)](https://github.com/FunctionError/PiratesTv/blob/main/LICENSE)
+[![License: AGPL v3](https://img.shields.io/badge/License-AGPL_v3-blue.svg)](https://github.com/kawsar1194/Autoupdate/blob/main/LICENSE.txt)
